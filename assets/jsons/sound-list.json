@@ -1,0 +1,57 @@
+{
+    "AntiHero":{
+      "name":        "ANTI-HERO",
+      "album":       "Eye",
+      "file":        "ANTI-HERO.mp3",
+      "type":        "sound",
+      "order":       "1",
+      "comment":     "東宝配給映画「進撃の巨人 ATTACK ON TITAN」の主題歌。ダーク且つエッジィな\nサウンド、全編英語詞とSEKAI NO OWARIの\n新たな局面を見せつけた意欲作。",
+      "active":      true
+    },
+    "SOS":{
+      "name":        "SOS",
+      "album":       "Eye",
+      "file":        "SOS.mp3",
+      "type":        "sound",
+      "order":       "2",
+      "comment":     "東宝配給映画「進撃の巨人 ATTACK ON TITAN エンド　オブ　ザ　ワールド」の主題歌。\n神聖で雄大なサウンドを全編英語詞で、\n荘厳に歌い上げた作品。",
+      "active":      true
+    },
+    "Sazanka":{
+      "name":        "サザンカ",
+      "album":       "Lip",
+      "file":        "Sazanka.mp3",
+      "type":        "sound",
+      "order":       "3",
+      "comment":     "2018年、日本放送協会（NHK）\n平昌オリンピックの放送テーマソング。\n「夢を追う人を応援する人」の目線で、\nやさしく、強く、包み込む名作。",
+      "active":      true
+    },
+    "Illumination":{
+      "name":        "イルミネーション",
+      "album":       "Lip",
+      "file":        "Illumination.mp3",
+      "type":        "sound",
+      "order":       "4",
+      "comment":     "「リーガルV〜元弁護士・小鳥遊翔子〜」\nの主題歌。イルミネーションに\n輝く景色が浮かぶ様な音楽の中、\n人の強さ、やさしさを描いた歌。",
+      "active":      true
+    },
+    "SilentNight":{
+      "name":        "Silent Night",
+      "album":       "Cover",
+      "file":        "Silent_Night.mp3",
+      "type":        "sound",
+      "order":       "5",
+      "comment":     "2018年、セイコーマートのCMソングにも\n起用された楽曲。彼らの持つファンタジックなポップ性が、冬の景色に彩りを添える。",
+      "active":      true
+    },
+    "YokohamaBlues":{
+      "name":        "YOKOHAMA blues",
+      "album":       "Lip",
+      "file":        "YOKOHAMA_blues.mp3",
+      "type":        "sound",
+      "order":       "6",
+      "comment":     "2019年2月27日にリリースされる\n新作アルバムに収録される一曲。\nアダルトでスタイリッシュなサウンドで、\n新境地の SEKAI NO OWARI\nを感じさせる一曲。",
+      "active":      true,
+      "isBonus":     true
+    }
+}

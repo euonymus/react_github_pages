@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17.12 17.15" style="enable-background:new 0 0 17.12 17.15;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#2C3E4F;}
+	.st2{display:none;}
+	.st3{display:inline;fill:#2C3E4F;}
+</style>
+<g id="レイヤー_1">
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_1_" cx="7.9435" cy="17.6228" r="16.1626" gradientTransform="matrix(1 0 0 -1 0 17.8898)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.2581" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#B3B3B3"/>
+			</radialGradient>
+			<path class="st0" d="M8.57,17.08L8.57,17.08c4.7,0,8.5-3.81,8.5-8.5l0,0c0-4.7-3.81-8.5-8.5-8.5l0,0c-4.7,0-8.5,3.81-8.5,8.5l0,0
+				C0.06,13.27,3.87,17.08,8.57,17.08z"/>
+		</g>
+	</g>
+</g>
+<g id="レイヤー_2">
+	<g>
+		<rect x="7.81" y="11.99" class="st1" width="1.7" height="1.7"/>
+		<path class="st1" d="M8.66,3.51c-1.87,0-3.39,1.52-3.39,3.39h1.7c0-0.93,0.76-1.7,1.7-1.7s1.7,0.76,1.7,1.7
+			c0,1.7-2.54,1.48-2.54,4.24h1.7c0-1.91,2.54-2.12,2.54-4.24C12.05,5.02,10.54,3.51,8.66,3.51z"/>
+	</g>
+</g>
+<g id="レイヤー_3" class="st2">
+	<path class="st3" d="M8.58,6.7c-1.03,0-1.87,0.83-1.87,1.87s0.83,1.87,1.87,1.87s1.87-0.83,1.87-1.87S9.61,6.7,8.58,6.7z
+		 M12.75,8.1c-0.21-1.94-1.76-3.49-3.7-3.7V3.44H8.11V4.4c-1.94,0.21-3.49,1.76-3.7,3.7H3.45v0.93h0.96c0.21,1.94,1.76,3.49,3.7,3.7
+		v0.96h0.93v-0.96c1.94-0.21,3.49-1.76,3.7-3.7h0.96V8.1C13.71,8.1,12.75,8.1,12.75,8.1z M8.58,11.83c-1.8,0-3.26-1.46-3.26-3.26
+		S6.78,5.3,8.58,5.3s3.26,1.46,3.26,3.26S10.39,11.83,8.58,11.83z"/>
+</g>
+</svg>
